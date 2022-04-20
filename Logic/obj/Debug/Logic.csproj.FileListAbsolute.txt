@@ -1,0 +1,6 @@
+C:\Users\danya\source\repos\SomeProject\Logic\bin\Debug\Logic.dll
+C:\Users\danya\source\repos\SomeProject\Logic\bin\Debug\Logic.pdb
+C:\Users\danya\source\repos\SomeProject\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\SomeProject\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\SomeProject\Logic\obj\Debug\Logic.dll
+C:\Users\danya\source\repos\SomeProject\Logic\obj\Debug\Logic.pdb
